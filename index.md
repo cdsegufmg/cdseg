@@ -2,9 +2,23 @@
 
 As mudanças progressivas em Cibersegurança impulsionadas pela Ciência de Dados torna cada vez mais necessária a atualização de profissionais no tema. Tomar decisões mais precisas e bem embasadas na Cibersegurança e se proteger de ataques cada vez mais pujantes requerem o suporte de ferramentas como a Ciência de Dados.
 
-O curso de Introdução à Ciência de Dados Aplicada à Cibersegurança oferece a oportunidade aos estudantes de terem um primeiro contato com o tema através de uma perspectiva teórica e prática. O curso inicia com com exercícios para introduzir ao estudante o raciocínio lógico de um cientista de dados e seu uso voltado à prevenção, detecção e mitigação de ataques.
+O curso de Introdução à Ciência de Dados Aplicada à Cibersegurança oferece a oportunidade aos estudantes de terem um primeiro contato com o tema através de uma perspectiva teórica e prática. O curso inicia com uma revisão dos conceitos mais importantes e exercícios para introduzir ao estudante o raciocínio lógico de um cientista de dados e seu uso voltado à prevenção, detecção e mitigação de ataques. Na sequência, os estudantes aprendem o básico sobre a linguagem Python com o foco nas bibliotecas específicas utilizadas ao longo do curso. Os estudantes aprendem sobre as formas de visualização de dados e finalmente são apresentados a seis estudos de caso do uso de ciência de dados específicos na área de cibersegurança.
 
-### Markdown
+### Público Alvo
+
+### Carga Horária e Material
+
+### Oferta e Calendário
+
+### Investimento
+
+### Certificado de Conclusão
+
+### Conteúdo
+
+### FAQ
+
+### Equipe
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
