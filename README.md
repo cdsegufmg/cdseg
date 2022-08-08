@@ -1,2 +1,2 @@
 # cdseg
-Website - Curso
+Curso Online
