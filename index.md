@@ -1,8 +1,8 @@
 ## Introdução à Ciência de Dados Aplicada à Cibersegurança
 
-You can use the [editor on GitHub](https://github.com/cdsegufmg/cdseg/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+As mudanças progressivas em Cibersegurança impulsionadas pela Ciência de Dados torna cada vez mais necessária a atualização de profissionais no tema. Tomar decisões mais precisas e bem embasadas na Cibersegurança e se proteger de ataques cada vez mais pujantes requerem o suporte de ferramentas como a Ciência de Dados.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O curso de Introdução à Ciência de Dados Aplicada à Cibersegurança oferece a oportunidade aos estudantes de terem um primeiro contato com o tema através de uma perspectiva teórica e prática. O curso inicia com com exercícios para introduzir ao estudante o raciocínio lógico de um cientista de dados e seu uso voltado à prevenção, detecção e mitigação de ataques.
 
 ### Markdown
 
