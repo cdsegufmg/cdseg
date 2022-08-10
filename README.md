@@ -1,2 +1,0 @@
-# cdseg
-Curso Online
