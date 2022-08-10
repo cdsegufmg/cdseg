@@ -4,6 +4,8 @@ As mudanças progressivas em Cibersegurança impulsionadas pela Ciência de Dado
 
 O curso de Introdução à Ciência de Dados Aplicada à Cibersegurança oferece a oportunidade aos estudantes de terem um primeiro contato com o tema através de uma perspectiva teórica e prática. O curso inicia com uma revisão dos conceitos mais importantes e exercícios para introduzir ao estudante o raciocínio lógico de um cientista de dados e seu uso voltado à prevenção, detecção e mitigação de ataques. Na sequência, os estudantes aprendem o básico sobre a linguagem Python com o foco nas bibliotecas específicas utilizadas ao longo do curso. Os estudantes aprendem sobre as formas de visualização de dados e finalmente são apresentados a seis estudos de caso do uso de ciência de dados específicos na área de cibersegurança.
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
 ### Público Alvo
 
 Profissionais graduados, estudantes de graduação ou pós-graduação em Ciência da Computação e afins familiarizados com lógica de programação e estatı́stica, sendo desejável alguma experiência com a linguagem de programação Python.
